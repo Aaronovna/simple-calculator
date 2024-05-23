@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BSIT3208</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+</resources>
